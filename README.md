@@ -10,4 +10,8 @@ When the project starts, random data generated and woek as data source of all ch
 2. Open command window and under the project folder input `npm install`.
 3. After the installation done, input `ng serve --open` and enjoy it!
 
+# Online Demo
+The project has been deployed to AWS cloud server and could be visited by link:
+http://chartsbyd3js.s3-website.us-east-2.amazonaws.com/
+
 Thank you!
